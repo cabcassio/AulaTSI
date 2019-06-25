@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author cassio.brito
+ * @author Aluno1 Alteração de teste
  */
 public class JavaApplication1 {
 
